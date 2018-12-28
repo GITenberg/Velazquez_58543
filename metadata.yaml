@@ -1,0 +1,25 @@
+_repo: Velazquez_58543
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knackfuss, H. (Hermann)
+    aliases:
+    - Knackfuss, Hermann
+    - Knackfuß, Hermann
+    birthdate: 1848
+    deathdate: 1915
+    gutenberg_agent_id: '37412'
+    url: http://www.gutenberg.org/2009/agents/37412
+description: ''
+gutenberg_issued: '2018-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58543'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Velazquez
+url: http://www.gutenberg.org/ebooks/58543
